@@ -18,6 +18,8 @@ In this project we outline the tools, language and libraries required to complet
 
 <img align="left" alt="Pandas" width="80px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
 
+<img align="left" alt="Pandas" width="80px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+
 <img align="left" alt="Google" width="80px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original-wordmark.svg" />
 
 <img align="left" alt="VSCode" width="80px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -33,4 +35,5 @@ The project is expected to be completed within 1 weeks from the date of initiati
 <br>
 Start of project: `16 November 2023` <br/>
 Completion of project: `23 November 2023` 
+
 
