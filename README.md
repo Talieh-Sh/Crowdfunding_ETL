@@ -1,7 +1,7 @@
 # Crowdfunding Project 2 - Group 4
 ![alt text](https://png.pngtree.com/thumb_back/fh260/back_our/20190621/ourmid/pngtree-blue-minimalist-technology-computer-banner-image_178469.jpg)
 
-# 🔍 About
+## 🔍 About
 
 We are a group of 4 full-time working professionals contributing to a project to showcase our knowledge and learning capabilities through Monash Data Analysis BootCamp Education.<br>
 
@@ -36,4 +36,22 @@ The project is expected to be completed within 1 weeks from the date of initiati
 Start of project: `16 November 2023` <br/>
 Completion of project: `23 November 2023` 
 
+## 🖥️ Project Brief
+### Instructions
+The instructions for this mini project are divided into the following subsections:
 
+* Create the Category and Subcategory DataFrames
+* Create the Campaign DataFrame
+* Create the Contacts DataFrame
+* Create the Crowdfunding Database
+<br>
+<br/>
+## 👨‍💼💻👩‍💼 Contributors 
+
+| <center>Contributors</center>    | <center>Github Profile</center>      |
+| ----------------| ----------------------------------------------------- |
+| <center>Choon Sien Wong</center>      | https://github.com/sienchoon    |    
+| <center>Peter Tram</center>| https://github.com/PeterTramm              |
+| <center>Sujatha Jayaraman</center>| https://github.com/Sujatha05            |
+| <center>Talieh Sheikholeslami</center> |   https://github.com/Talieh-Sh     | 
+----------------------------------------------------------------        
