@@ -3,7 +3,7 @@
 
 ## 🔍 About
 
-We are a group of 4 full-time working professionals contributing to a project to showcase our knowledge and learning capabilities through Monash Data Analysis BootCamp Education.<br>
+We are a group of 4 full-time working professionals contributing to a project to showcase our knowledge and learning capabilities through Monash Data Analysis BootCamp Education.<br><br/>
 
 ## 🧰 Languages and Tools
 
@@ -25,8 +25,9 @@ In this project we outline the tools, language and libraries required to complet
 <img align="left" alt="VSCode" width="80px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 <img align="left" alt="Jupyter" width="80px" style="padding-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-<br><br/>
+<br/>
 
+<br><br/>
 <br><br/>
 
 ## ⏰ Project Time-frame
@@ -35,6 +36,9 @@ The project is expected to be completed within 1 weeks from the date of initiati
 <br>
 Start of project: `16 November 2023` <br/>
 Completion of project: `23 November 2023` 
+<br><br/>
+
+![GitHub Image](/timeline.jpg)
 
 ## 🖥️ Project Brief
 ### Instructions
@@ -44,6 +48,9 @@ The instructions for this mini project are divided into the following subsection
 * Create the Campaign DataFrame
 * Create the Contacts DataFrame
 * Create the Crowdfunding Database
+* Sketch ERD of tables
+* Create tables schema
+* Create Postgres database
 <br>
 <br/>
 
