@@ -48,6 +48,9 @@ The instructions for this mini project are divided into the following subsection
 * Create the Campaign DataFrame
 * Create the Contacts DataFrame
 * Create the Crowdfunding Database
+* Sketch ERD of tables
+* Create tables schema
+* Create Postgres database
 <br>
 <br/>
 
